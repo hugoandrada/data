@@ -21,4 +21,5 @@
 
 - [ ] **Numeros de Angeles**
   - Significado de los numeros
-  - ...
+  - Numero del Dia
+  - Calcula tu numero x nombre y fecha de nacimiento
