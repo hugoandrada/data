@@ -25,7 +25,8 @@
 
 - [ ] **App de Runas**
   - Runa del Dia
-  - Todas las Runas y su significado
+  - Todas las Runas
+  - Tirada de Runas
   - Numero del Dia
 
 
