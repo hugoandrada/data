@@ -3,7 +3,7 @@
 - [ ] **App de Tarot**
   - Carta del Dia
   - Todas las Cartas
-  - Todas las Tirdas
+  - Todas las Tiradas
 
 - [ ] **App de Horoscopo**
   - Horoscopo del Dia
